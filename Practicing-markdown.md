@@ -9,6 +9,11 @@
 ###### Titol h6
 ####### Titol h7
 
+## Lines
+
+---
+or
+***
 
 ## Bold
 
@@ -19,3 +24,7 @@ This is a *Italic* text. OR This is a _Italic_ text.
 
 ## Strikethrough
 This is a ~~Italic~~ text.
+
+## Mixed settings
+It's __*mixed*__.
+
