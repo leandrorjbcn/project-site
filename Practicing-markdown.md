@@ -1,3 +1,6 @@
+# MARKDOWN markup language
+
+## Titles exemples:
 # Titol h1
 ## Titol h2
 ### Titol h3
@@ -6,7 +9,10 @@
 ###### Titol h6
 ####### Titol h7
 
-This is a **Bold** text, 
+
+## Bold
+
+This is a **Bold** text. OR This is a __Bold__ text.
 
 This is a *Italic* text.
 
