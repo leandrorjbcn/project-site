@@ -14,5 +14,8 @@
 
 This is a **Bold** text. OR This is a __Bold__ text.
 
-This is a *Italic* text.
+## Italic
+This is a *Italic* text. OR This is a _Italic_ text.
 
+## Strikethrough
+This is a ~~Italic~~ text.
