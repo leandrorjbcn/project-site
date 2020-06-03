@@ -1,5 +1,7 @@
 # MARKDOWN markup language
-
+### To Practise all the possibilities from MARKDOWN we can work in the Issue.
+### Here there are some limitations like add images,...
+---
 ## Titles exemples:
 # Titol h1
 ## Titol h2
