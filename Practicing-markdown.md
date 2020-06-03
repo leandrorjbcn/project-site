@@ -61,5 +61,5 @@ OR
 - [ ] Step 4
 - [ ] Step 5
 
-## Images
+## Images - See the Issue referente this file.
 
